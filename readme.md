@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="/Users/sajmaru/Desktop/Sem 2/GAN/Readme Images/img 1.png">
+<img src="https://github.com/sajmaru/GAN/blob/main/Readme%20Images/img%201.png">
 </p>
 
 ## Usage
