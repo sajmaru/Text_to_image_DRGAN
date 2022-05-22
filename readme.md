@@ -16,7 +16,7 @@
 
 ## Results
 
-I trained the GAN model for 960 epochs with the ADAM optimizer [4] for the discriminator and generator with a learning rate of 0.000035 and beta_1=0.5. Most of the synthesized images do depict plausible colors and shapes of birds and there does seem to be a lot of diversity; however, the GAN did have some minor mode collapse problems when generating images based on made up captions as seen below.
+We trained the GAN model for 500 epochs with the ADAM optimizer [4] for the discriminator and generator with a learning rate of 0.00004 and beta_1=0.5. Most of the synthesized images do depict plausible colors and shapes of birds and there does seem to be a lot of diversity; however, the GAN did have some minor mode collapse problems when generating images based on made up captions as seen below.
 
 <p align="center">
 
