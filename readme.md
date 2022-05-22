@@ -11,7 +11,7 @@
 The proposed GAN model is built by conditioning the generated images on a text description instead of on a class label. We implemented a Deep Residual GAN network to create fine pictures from very latent noise. The coarse images are aligned to attributes and are embedded as the generator inputs and classifier labels. A straight route, similar to the Resnet, is covered in a generative network to directly transport coarse pictures to higher layers. In addition, adversarial training is used in a cyclic fashion to prevent picture degradation. Experimental results of applying the Deep Residual GAN model to datasets BIRD CUB-200 and FLICKR 8K show its higher accuracy to the state-of-art GANs.
 
 ## Steps to Run 🧾
-1. Please refer to the READMEs in the folder Dataset, Captions, and word2vec_pretrained_model to obtain the necessary data. 
+1. Please refer to the READMEs in the folder Dataset, text_pkl, image_pkl and word2vec_pretrained_model to obtain the necessary data. 
 2. Images pickle file can be found in Dataset folder that was created using  ```process_images.ipynb``` to resize and normalize the images and generate numpy arrays 
 3. Captions pickle file can be found in Captions folder that was created using  ```process_captions.ipynb``` to generate sentence embeddings for the captions or use one provided in Captions folder
 4. Trained model weights files can be found in the weights folder 
