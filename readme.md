@@ -41,3 +41,5 @@ We trained the GAN model for 500 epochs with the ADAM optimizer [4] for the disc
 [2] Tingting Qiao, Jing Zhang, Duanqing Xu, and   DachengTao. Mirrorgan: Learning text-to-image generation by redescription, 2019. arXiv:1903.05854. <br />
 [3] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805, 2018. <br />
 [4] Han Zhang, Tao Xu, Hongsheng Li, ShaotingZhang, Xiaogang Wang, Xiaolei Huang, and Dimitris Metaxas. Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks, 2016. arXiv:1612.03242.
+[5] https://machinelearningmastery.com/practical-guide-to-gan-failure-modes/
+[6] https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/
