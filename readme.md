@@ -12,8 +12,8 @@ The proposed GAN model is built by conditioning the generated images on a text d
 
 ## Usage 🧾
 1. Please refer to the READMEs in the folder Dataset, Captions, and word2vec_pretrained_model to obtain the necessary data. 
-2. Images pickle file can be found in Dataset folder that was created using  ```python process_images.py``` to resize and normalize the images and generate numpy arrays 
-3. Captions pickle file can be found in Captions folder that was created using  ```python process_captions.py``` to generate sentence embeddings for the captions or use one provided in Captions folder
+2. Images pickle file can be found in Dataset folder that was created using  ```python process_images.ipynb``` to resize and normalize the images and generate numpy arrays 
+3. Captions pickle file can be found in Captions folder that was created using  ```python process_captions.ipynb``` to generate sentence embeddings for the captions or use one provided in Captions folder
 4. Trained model weights files can be found in the weights folder 
 5. Import the jupyter notebook ```Text2Image_GAN_MS.ipynb``` in Google Colab and load the data.
 6. Run code snippets in Google Colab.
