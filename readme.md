@@ -1,6 +1,6 @@
 
 
-# **Caption to Image generation Deep Residual Generative Adversarial Networks [DR-GAN] 🧙🏻‍♂️**
+# **Caption to Image generation using Deep Residual Generative Adversarial Networks [DR-GAN] 🧙🏻‍♂️**
 
 
 
